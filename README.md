@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Lin
 - 👀 I’m interested in machine learning powered accounting research and accounting practice.
-- 🌱 I’m currently doing my doctoerate degree at AUT.
-- 💞️ I’m looking to collaborate on research projects about accounting.
+- 🌱 I’m currently doing doctoerate research at AUT.
 - 📫 You can find me by @LinAccountant via Twitter.
 
 <!---
