@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Lin
 - 👀 I’m interested in machine learning powered accounting research and accounting practice.
-- 🌱 I’m currently doing doctoerate research at AUT.
-- 📫 You can find me by @LinAccountant via Twitter.
+- 🌱 I’m currently doing postdoc research at HEC Montréal.
 
 <!---
 chillylin/chillylin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
